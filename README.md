@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <p align="center">
   <a href="https://evilmartians.com/?utm_source=size-limit">
-    <img src="https://https://github.com/makerling/blob/master/media/sil-logo.jpeg">
+    <img src="https://github.com/makerling/makerling/blob/master/media/sil-logo.jpeg">
   </a>
 </p>
 
