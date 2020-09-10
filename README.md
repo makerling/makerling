@@ -1,11 +1,15 @@
-### Hi there 👋 
-<p align="center">
-  <a href="https://evilmartians.com/?utm_source=size-limit">
-    <img src="https://github.com/makerling/makerling/blob/master/media/sil-logo.jpeg">
-  </a>
-</p>
+### Hey! 👋
+
+My name is Stevan, and for the last 8 years I've used my technology skills to help others. I'm a **backend software engineer** with experience in **cloud engineering** and several years helping SIL Project Managers solve their technical challenges as a **language technology consultant**. 
+
+I love abstracting the complexity away from technology so every-day users can easily use tools to automate their workflows, collaborate with community members and clients, and uncover insights they wouldn't be able to without those tools. 
+
+- 🔭 I'm currently working on a Python-based Desktop application **TE-Tools** to automate the workflow for the [Ottoman Transcript project](https://osmanlicakelam.net/en/texts) publishing platform.
+- 🌱 I'm currently improving my **Django** skills to migrate a website from using PHP to Python on the backend. 
 
 <!--
+
+<img src="https://github.com/makerling/makerling/blob/master/media/sil-logo.jpeg">
 **makerling/makerling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
