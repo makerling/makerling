@@ -8,12 +8,18 @@ I love abstracting the complexity away from technology so every-day users can ea
 - 🐍🚚 I'm currently improving my **Django** skills to migrate a website from   PHP to Python on the backend. 
 
 ### Some projects I've worked on while at SIL:
-<code> python Actions/[TETools](https://github.com/makerling/TE-Tools).py</code>  
+<code> python Actions/[TETools](https://github.com/makerling/TE-Tools).py</code>
+<p align="left">
+  <a href="https://github.com/makerling/TE-Tools">
+    <img src="https://github.com/makerling/makerling/blob/master/media/tetools-screenshot-front.png" height="200"/>
+  </a>
+</p>
+
 <code> \<sql\> SELECT verse, Replace (verse, error, fix) FROM verses WHERE verse match 'error' </code>
   
 <!--
 
-<img src="https://github.com/makerling/makerling/blob/master/media/sil-logo.jpeg">
+<img src="https://github.com/makerling/makerling/blob/master/media/tetools-screenshot-front.png">
 **makerling/makerling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
