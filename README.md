@@ -15,10 +15,17 @@ I love abstracting the complexity away from technology so every-day users can ea
   </a>
 </p>
 
-<code> \<sql\> SELECT verse, Replace (verse, error, fix) FROM verses WHERE verse match 'error' </code>
+_Cross-platform Desktop Application_
+
+_GUI Framework: [@chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)_
+
+_[sqlite](https://sqlite.org/index.html) backend_
+
+_unit tests, object oriented principles, modular classes_
+<code> </code>
   
 <!--
-
+<code> \<sql\> SELECT verse, Replace (verse, error, fix) FROM verses WHERE verse match 'error' </code>
 <img src="https://github.com/makerling/makerling/blob/master/media/tetools-screenshot-front.png">
 **makerling/makerling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
