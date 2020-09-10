@@ -5,8 +5,12 @@ Stevan here... for the last 8 years I've used my technology skills to help other
 I love abstracting the complexity away from technology so every-day users can easily use tools to automate their workflows, collaborate with community members and clients, and uncover insights they wouldn't be able to without those tools. 
 
 - 🧙‍♂️📃 I'm currently working on a Python-based Desktop application **TE-Tools** to automate the workflow for the [Ottoman Transcript project](https://osmanlicakelam.net/en/texts) publishing platform.
-- 🐍🚚 I'm currently improving my **Django** skills to migrate a website from using PHP to Python on the backend. 
+- 🐍🚚 I'm currently improving my **Django** skills to migrate a website from   PHP to Python on the backend. 
 
+### Some projects I've worked on while at SIL:
+<code> python Actions/[TETools](https://github.com/makerling/TE-Tools).py</code>  
+<code> \<sql\> SELECT verse, Replace (verse, error, fix) FROM verses WHERE verse match 'error' </code>
+  
 <!--
 
 <img src="https://github.com/makerling/makerling/blob/master/media/sil-logo.jpeg">
