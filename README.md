@@ -15,13 +15,20 @@ I love abstracting the complexity away from technology so every-day users can ea
   </a>
 </p>
 
-_Cross-platform Desktop Application_
+_Cross-platform Python Desktop Application, architected/developed from scratch_
 
 _GUI Framework: [@chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)_
 
 _[sqlite](https://sqlite.org/index.html) backend_
 
 _unit tests, object oriented principles, modular classes_
+
+<code> clasp deploy "[NewsGen](https://github.com/makerling/newsletter_creator)"</code>
+<p align="left">
+  <a href="https://github.com/makerling/newsletter_creator">
+    <img src="https://github.com/makerling/makerling/blob/master/media/newsgen-pic.png" height="200"/>
+  </a>
+</p>
 <code> </code>
   
 <!--
