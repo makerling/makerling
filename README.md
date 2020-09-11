@@ -15,9 +15,10 @@ I love abstracting the complexity away from technology so every-day users can ea
   </a>
 </p>
 
-- _Javascript-based [Google Apps Script](https://developers.google.com/apps-script) framework_
-- _leverages Gmail and Drive API to interact with Gmail, Google Drive, Docs and Sheets_
-- _automatically generates a newsletter, pulling content from a Gmail folder_
+- _Cross-platform Python Desktop Application, architected/developed from scratch_
+- _GUI Framework: [@chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)_
+- _[sqlite](https://sqlite.org/index.html) backend_
+- _unit tests, object oriented principles, modular classes_
 
 <code> clasp deploy "[NewsGen](https://github.com/makerling/newsletter_creator)"</code>
 <p align="left">
@@ -26,10 +27,9 @@ I love abstracting the complexity away from technology so every-day users can ea
   </a>
 </p>
 
-- _Cross-platform Python Desktop Application, architected/developed from scratch_
-- _GUI Framework: [@chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)_
-- _[sqlite](https://sqlite.org/index.html) backend_
-- _unit tests, object oriented principles, modular classes_
+- _Javascript-based [Google Apps Script](https://developers.google.com/apps-script) framework_
+- _leverages Gmail and Drive API to interact with Gmail, Google Drive, Docs and Sheets_
+- _automatically generates a newsletter, pulling content from a Gmail folder_
 <code> </code>
   
 <!--
