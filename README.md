@@ -23,7 +23,7 @@ I love abstracting the complexity away from technology so every-day users can ea
 <code> clasp deploy "[NewsGen](https://github.com/makerling/newsletter_creator)"</code>
 <p align="left">
   <a href="https://github.com/makerling/newsletter_creator">
-    <img src="https://github.com/makerling/makerling/blob/master/media/newsgen-pic.png" height="300"/>
+    <img src="https://github.com/makerling/makerling/blob/master/media/newsgen-pic.png" height="400"/>
   </a>
 </p>
 
