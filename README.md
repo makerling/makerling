@@ -1,13 +1,13 @@
 ### Hey! 👋
 
-Stevan here... for the last 8 years I've used my technology skills to help others. I'm a 🖥️ **backend software engineer** with experience in ☁️ **cloud engineering** and several years helping SIL Project Managers solve their technical challenges as a 👨‍💻 **language technology consultant**. 
+Stevan here... for the last 9 years I've used my technology skills to help others. I'm a 🖥️ **DevOps engineer** with experience in ☁️ **cloud engineering** and 👨‍💻 **software development**. 
 
 I love abstracting the complexity away from technology so every-day users can easily use tools to automate their workflows, collaborate with community members and clients, and uncover insights they wouldn't be able to without those tools. 
 
 - 🧙‍♂️📃 I'm currently working on a Python-based Desktop application **TE-Tools** to automate the workflow for the [Ottoman Transcript project](https://osmanlicakelam.net/en/texts) publishing platform.
-- 🐍🚚 I'm currently improving my **Django** skills to migrate a website from   PHP to Python on the backend. 
+- 🐍🚚 I'm currently improving my **Django** skills to migrate a website from PHP to Python on the backend. 
 
-### Some projects I've worked on while at SIL:
+### Some projects I've worked on recently:
 <code> python Actions/[TETools](https://github.com/makerling/TE-Tools).py</code>
 <p align="left">
   <a href="https://github.com/makerling/TE-Tools">
